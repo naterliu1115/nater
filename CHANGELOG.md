@@ -1,4 +1,10 @@
 # 更新日志
+## 2022-01-05
+- `vivo` 新增 iQOO 9 系列。
+## 2022-01-04
+- `oppo_cn` 新增 OPPO A96。
+- `realme_cn` 新增 真我 GT2 系列。
+- `samsung_cn` 新增 Galaxy S21 FE & Galaxy Tab A8。
 ## 2021-12-31
 - `huawei_cn` 新增部分商用系列型号。
 ## 2021-12-28
