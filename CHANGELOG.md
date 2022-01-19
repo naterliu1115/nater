@@ -1,4 +1,15 @@
 # 更新日志
+## 2022-01-14
+- `vivo` 新增 vivo Y10 & Y33s。
+## 2022-01-13
+- `huawei_cn` 新增 HUAWEI MateBook D 14 SE。
+## 2022-01-12
+- `oppo_cn` 新增 OPPO A36。
+## 2022-01-11
+- `meizu` 新增 魅蓝 10。
+- `oneplus` 新增 一加 10 Pro。
+## 2022-01-10
+- `honor_cn` 新增 荣耀 Magic V。
 ## 2022-01-05
 - `vivo` 新增 iQOO 9 系列。
 ## 2022-01-04
